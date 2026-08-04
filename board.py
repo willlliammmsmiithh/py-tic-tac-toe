@@ -1,0 +1,1 @@
+def create_board(): return [' '] * 9
